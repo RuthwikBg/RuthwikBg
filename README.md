@@ -23,6 +23,7 @@ Feel free to explore my repositories, fork projects, and collaborate on exciting
 
 📫 Let's Connect:
 
-Got a data project in mind, a question, or just want to chat about all things data? Don't hesitate to reach out! Connect with me here on GitHub or find me on [LinkedIn](Your LinkedIn Profile Link).
+Got a data project in mind, a question, or just want to chat about all things data? Don't hesitate to reach out! Connect with me here on GitHub or find me on [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/ruthwikbg/))
+or mail me at [Mail](bommenahalligowda.r@northeastern.edu).
 
 Let's embark on a data adventure together! 🚀
