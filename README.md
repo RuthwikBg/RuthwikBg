@@ -27,3 +27,5 @@ Got a data project in mind, a question, or just want to chat about all things da
 or mail me at [Mail](bommenahalligowda.r@northeastern.edu).
 
 Let's embark on a data adventure together! 🚀
+
+![](https://komarev.com/ghpvc/?username=RuthwikBg)
