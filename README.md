@@ -10,6 +10,8 @@ Welcome to my world of data-driven discovery! I'm on a mission to transform raw 
 - **Visualization:** Splunk, Tableau, PowerBI, Alteryx
 - **DevOps & Tools:** Git, Docker, Kubernetes, Bloomberg
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthwikBg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌟 What You'll Find Here:
 
 - 🧠 Creative data projects that unravel fascinating insights.
