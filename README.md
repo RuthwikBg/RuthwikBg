@@ -21,6 +21,8 @@ Welcome to my world of data-driven discovery! I'm on a mission to transform raw 
 
 Feel free to explore my repositories, fork projects, and collaborate on exciting data-driven endeavors. I believe in the power of open-source collaboration to drive innovation and solve complex problems.
 
+### Check out my [Portfolio](https://ruthwikbg.my.canva.site/)
+
 📫 Let's Connect:
 
 Got a data project in mind, a question, or just want to chat about all things data? Don't hesitate to reach out! Connect with me here on GitHub or find me on [LinkedIn](https://www.linkedin.com/in/ruthwikbg/)
