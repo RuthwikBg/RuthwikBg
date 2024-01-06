@@ -1,6 +1,6 @@
-## 👋 Hey there, I'm Ruthwik - A Data Enthusiast on a Quest for Insights! 📊🚀
+## 👋 Hey there!  📊🚀
 
-Welcome to my world of data-driven discovery! I'm on a mission to transform raw data into actionable insights, and my GitHub is where the magic happens 🎩✨.
+Hello, I'm Ruthwik, a Data Analyst with a robust educational background including Master of Science in Information Systems from Northeastern University, and hands-on experience as a Systems Engineer and Research Assistant. My journey in data analysis is driven by a goal to provide meaningful business solutions through data-driven insights. Here on GitHub, you'll find projects reflecting my academic rigor and practical application in real-world scenarios. 
 
 ### 💻 My Tech Stack:
 
